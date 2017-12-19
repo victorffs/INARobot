@@ -1,6 +1,7 @@
 # INA_Robots
 It's not the <a href="https://www.youtube.com/watch?v=6KRjuuEVEZs"> Amazon's Robots</a>...
 
+<img src="https://lh3.googleusercontent.com/WivvEF6FPRoz5_Prut2Zze-9FgLYh_hPq0u7kl1aKrdgXk2b-wfeB_zz-QHoM9qCz5yM7l8tpaqyiHldwO7kTHDIqY02-b2l3G8rbz7K1gbWjb2jD9J8huRRV1VDKqm2uAHb25WHydmLy0cX3jmGdfkE44kZ9EEWZZ7pVQYcBIITQpUyNUz2GwjkfPPtWuszvwAGrh9wFx5Pu9oNJT6EFM0VbHbwQ_XiMs4qmutE2vxySw0gEc54Bh2Me6h013eNNAb9lLvNIlXjTQrGHnijI-hXOJwKMrH4HZQJybfoQZfiWuvtNWE8hfVLoU4e3jCBxGJ_DwH2ccQ4OtGsvJGC9MmdlIfDCKLIvaALKxRSnKzU2ewnY0uH4Pru6laF56ovLFYvRmrIMZBjw67C8VWXsaS9Gh2Hv2UhHw2itNEue0PvqU4P3jBWS2KeouYdlmQrKmNHMqKLB6KEswcUnZvJrva9zartYaSTUkgOifY7yWd_RAif92L1zQU72N4LvEs6blr6oLmcx5dQdRVj66SzZ4_TlmpeWDoVV-cCf3H0FRG8d9cB-0_F3BCzEQ4DkuM2MEqhRDvscaciXyB4L_h1EzK7JNzWhKCCRIKs3NAe=w1743-h980-no"></img>
 
 
 Project to the class of Multiple-social Robots Systems - Universidade Federal do ABC - 2017.

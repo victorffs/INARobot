@@ -194,8 +194,8 @@ class Controle(object):
 INA Robot:
 
 Instrucoes:
-1 - Iniciar objetos "Robo" com ID, Posicao Inicial X, Posicao Inicial Y
-2 - Setar destino de cada robo com posicao X e Y "setTarget(x,y)"
+1 - Iniciar objetos "Robo" com ID, Posicao Inicial Y, Posicao Inicial X
+2 - Setar destino de cada robo com posicao Y e X "setTarget(y,x)"
 3 - Executar "Controle" com cada robo como parametro
 
 """
